@@ -1,0 +1,373 @@
+district,date,month,year,visitors
+Adilabad,01-01-2016,January,2016,2
+Adilabad,01-02-2016,February,2016,0
+Adilabad,01-03-2016,March,2016,2
+Adilabad,01-04-2016,April,2016,0
+Adilabad,01-05-2016,May,2016,0
+Adilabad,01-06-2016,June,2016,0
+Adilabad,01-07-2016,July,2016,4
+Adilabad,01-08-2016,August,2016,2
+Adilabad,01-09-2016,September,2016,0
+Adilabad,01-10-2016,October,2016,0
+Adilabad,01-11-2016,November,2016,0
+Adilabad,01-12-2016,December,2016,0
+Bhadradri Kothagudem ,01-01-2016,January,2016, 
+Bhadradri Kothagudem ,01-02-2016,February,2016, 
+Bhadradri Kothagudem ,01-03-2016,March,2016, 
+Bhadradri Kothagudem ,01-04-2016,April,2016, 
+Bhadradri Kothagudem ,01-05-2016,May,2016, 
+Bhadradri Kothagudem ,01-06-2016,June,2016, 
+Bhadradri Kothagudem ,01-07-2016,July,2016, 
+Bhadradri Kothagudem ,01-08-2016,August,2016, 
+Bhadradri Kothagudem ,01-09-2016,September,2016, 
+Bhadradri Kothagudem ,01-10-2016,October,2016,0
+Bhadradri Kothagudem ,01-11-2016,November,2016,0
+Bhadradri Kothagudem ,01-12-2016,December,2016,0
+Hyderabad,01-01-2016,January,2016,15865
+Hyderabad,01-02-2016,February,2016,29646
+Hyderabad,01-03-2016,March,2016,13019
+Hyderabad,01-04-2016,April,2016,8402
+Hyderabad,01-05-2016,May,2016,8522
+Hyderabad,01-06-2016,June,2016,10284
+Hyderabad,01-07-2016,July,2016,17142
+Hyderabad,01-08-2016,August,2016,12842
+Hyderabad,01-09-2016,September,2016,9397
+Hyderabad,01-10-2016,October,2016,12808
+Hyderabad,01-11-2016,November,2016,8084
+Hyderabad,01-12-2016,December,2016,17620
+Jagtial ,01-01-2016,January,2016, 
+Jagtial ,01-02-2016,February,2016, 
+Jagtial ,01-03-2016,March,2016, 
+Jagtial ,01-04-2016,April,2016, 
+Jagtial ,01-05-2016,May,2016, 
+Jagtial ,01-06-2016,June,2016, 
+Jagtial ,01-07-2016,July,2016, 
+Jagtial ,01-08-2016,August,2016, 
+Jagtial ,01-09-2016,September,2016, 
+Jagtial ,01-10-2016,October,2016,0
+Jagtial ,01-11-2016,November,2016,0
+Jagtial ,01-12-2016,December,2016,0
+Jangaon ,01-01-2016,January,2016, 
+Jangaon ,01-02-2016,February,2016, 
+Jangaon ,01-03-2016,March,2016, 
+Jangaon ,01-04-2016,April,2016, 
+Jangaon ,01-05-2016,May,2016, 
+Jangaon ,01-06-2016,June,2016, 
+Jangaon ,01-07-2016,July,2016, 
+Jangaon ,01-08-2016,August,2016, 
+Jangaon ,01-09-2016,September,2016, 
+Jangaon ,01-10-2016,October,2016,0
+Jangaon ,01-11-2016,November,2016,2
+Jangaon ,01-12-2016,December,2016,0
+Jayashankar Bhoopalpally,01-01-2016,January,2016, 
+Jayashankar Bhoopalpally,01-02-2016,February,2016, 
+Jayashankar Bhoopalpally,01-03-2016,March,2016, 
+Jayashankar Bhoopalpally,01-04-2016,April,2016, 
+Jayashankar Bhoopalpally,01-05-2016,May,2016, 
+Jayashankar Bhoopalpally,01-06-2016,June,2016, 
+Jayashankar Bhoopalpally,01-07-2016,July,2016, 
+Jayashankar Bhoopalpally,01-08-2016,August,2016, 
+Jayashankar Bhoopalpally,01-09-2016,September,2016, 
+Jayashankar Bhoopalpally,01-10-2016,October,2016,24
+Jayashankar Bhoopalpally,01-11-2016,November,2016,22
+Jayashankar Bhoopalpally,01-12-2016,December,2016,40
+Jogulamba Gadwal ,01-01-2016,January,2016, 
+Jogulamba Gadwal ,01-02-2016,February,2016, 
+Jogulamba Gadwal ,01-03-2016,March,2016, 
+Jogulamba Gadwal ,01-04-2016,April,2016, 
+Jogulamba Gadwal ,01-05-2016,May,2016, 
+Jogulamba Gadwal ,01-06-2016,June,2016, 
+Jogulamba Gadwal ,01-07-2016,July,2016, 
+Jogulamba Gadwal ,01-08-2016,August,2016, 
+Jogulamba Gadwal ,01-09-2016,September,2016, 
+Jogulamba Gadwal ,01-10-2016,October,2016,13
+Jogulamba Gadwal ,01-11-2016,November,2016,21
+Jogulamba Gadwal ,01-12-2016,December,2016,11
+Kamareddy ,01-01-2016,January,2016, 
+Kamareddy ,01-02-2016,February,2016, 
+Kamareddy ,01-03-2016,March,2016, 
+Kamareddy ,01-04-2016,April,2016, 
+Kamareddy ,01-05-2016,May,2016, 
+Kamareddy ,01-06-2016,June,2016, 
+Kamareddy ,01-07-2016,July,2016, 
+Kamareddy ,01-08-2016,August,2016, 
+Kamareddy ,01-09-2016,September,2016, 
+Kamareddy ,01-10-2016,October,2016,0
+Kamareddy ,01-11-2016,November,2016,0
+Kamareddy ,01-12-2016,December,2016,0
+Karimnagar ,01-01-2016,January,2016,0
+Karimnagar ,01-02-2016,February,2016,0
+Karimnagar ,01-03-2016,March,2016,0
+Karimnagar ,01-04-2016,April,2016,0
+Karimnagar ,01-05-2016,May,2016,0
+Karimnagar ,01-06-2016,June,2016,0
+Karimnagar ,01-07-2016,July,2016,0
+Karimnagar ,01-08-2016,August,2016,0
+Karimnagar ,01-09-2016,September,2016,0
+Karimnagar ,01-10-2016,October,2016,0
+Karimnagar ,01-11-2016,November,2016,0
+Karimnagar ,01-12-2016,December,2016,0
+Khammam,01-01-2016,January,2016,0
+Khammam,01-02-2016,February,2016,0
+Khammam,01-03-2016,March,2016,0
+Khammam,01-04-2016,April,2016,0
+Khammam,01-05-2016,May,2016,0
+Khammam,01-06-2016,June,2016,0
+Khammam,01-07-2016,July,2016,0
+Khammam,01-08-2016,August,2016,0
+Khammam,01-09-2016,September,2016,0
+Khammam,01-10-2016,October,2016,0
+Khammam,01-11-2016,November,2016,0
+Khammam,01-12-2016,December,2016,0
+Komaram Bheem Asifabad,01-01-2016,January,2016, 
+Komaram Bheem Asifabad,01-02-2016,February,2016, 
+Komaram Bheem Asifabad,01-03-2016,March,2016, 
+Komaram Bheem Asifabad,01-04-2016,April,2016, 
+Komaram Bheem Asifabad,01-05-2016,May,2016, 
+Komaram Bheem Asifabad,01-06-2016,June,2016, 
+Komaram Bheem Asifabad,01-07-2016,July,2016, 
+Komaram Bheem Asifabad,01-08-2016,August,2016, 
+Komaram Bheem Asifabad,01-09-2016,September,2016, 
+Komaram Bheem Asifabad,01-10-2016,October,2016,0
+Komaram Bheem Asifabad,01-11-2016,November,2016,0
+Komaram Bheem Asifabad,01-12-2016,December,2016,0
+Mahabubabad ,01-01-2016,January,2016, 
+Mahabubabad ,01-02-2016,February,2016, 
+Mahabubabad ,01-03-2016,March,2016, 
+Mahabubabad ,01-04-2016,April,2016, 
+Mahabubabad ,01-05-2016,May,2016, 
+Mahabubabad ,01-06-2016,June,2016, 
+Mahabubabad ,01-07-2016,July,2016, 
+Mahabubabad ,01-08-2016,August,2016, 
+Mahabubabad ,01-09-2016,September,2016, 
+Mahabubabad ,01-10-2016,October,2016,0
+Mahabubabad ,01-11-2016,November,2016,0
+Mahabubabad ,01-12-2016,December,2016,0
+Mahbubnagar,01-01-2016,January,2016,123
+Mahbubnagar,01-02-2016,February,2016,126
+Mahbubnagar,01-03-2016,March,2016,103
+Mahbubnagar,01-04-2016,April,2016,75
+Mahbubnagar,01-05-2016,May,2016,58
+Mahbubnagar,01-06-2016,June,2016,68
+Mahbubnagar,01-07-2016,July,2016,63
+Mahbubnagar,01-08-2016,August,2016,86
+Mahbubnagar,01-09-2016,September,2016,74
+Mahbubnagar,01-10-2016,October,2016,37
+Mahbubnagar,01-11-2016,November,2016,29
+Mahbubnagar,01-12-2016,December,2016,26
+Mancherial,01-01-2016,January,2016, 
+Mancherial,01-02-2016,February,2016, 
+Mancherial,01-03-2016,March,2016, 
+Mancherial,01-04-2016,April,2016, 
+Mancherial,01-05-2016,May,2016, 
+Mancherial,01-06-2016,June,2016, 
+Mancherial,01-07-2016,July,2016, 
+Mancherial,01-08-2016,August,2016, 
+Mancherial,01-09-2016,September,2016, 
+Mancherial,01-10-2016,October,2016,0
+Mancherial,01-11-2016,November,2016,0
+Mancherial,01-12-2016,December,2016,0
+Medak ,01-01-2016,January,2016,0
+Medak ,01-02-2016,February,2016,0
+Medak ,01-03-2016,March,2016,0
+Medak ,01-04-2016,April,2016,0
+Medak ,01-05-2016,May,2016,0
+Medak ,01-06-2016,June,2016,0
+Medak ,01-07-2016,July,2016,0
+Medak ,01-08-2016,August,2016,0
+Medak ,01-09-2016,September,2016,0
+Medak ,01-10-2016,October,2016,0
+Medak ,01-11-2016,November,2016,0
+Medak ,01-12-2016,December,2016,0
+Medchal ,01-01-2016,January,2016, 
+Medchal ,01-02-2016,February,2016, 
+Medchal ,01-03-2016,March,2016, 
+Medchal ,01-04-2016,April,2016, 
+Medchal ,01-05-2016,May,2016, 
+Medchal ,01-06-2016,June,2016, 
+Medchal ,01-07-2016,July,2016, 
+Medchal ,01-08-2016,August,2016, 
+Medchal ,01-09-2016,September,2016, 
+Medchal ,01-10-2016,October,2016, 
+Medchal ,01-11-2016,November,2016, 
+Medchal ,01-12-2016,December,2016, 
+Nagarkurnool ,01-01-2016,January,2016, 
+Nagarkurnool ,01-02-2016,February,2016, 
+Nagarkurnool ,01-03-2016,March,2016, 
+Nagarkurnool ,01-04-2016,April,2016, 
+Nagarkurnool ,01-05-2016,May,2016, 
+Nagarkurnool ,01-06-2016,June,2016, 
+Nagarkurnool ,01-07-2016,July,2016, 
+Nagarkurnool ,01-08-2016,August,2016, 
+Nagarkurnool ,01-09-2016,September,2016, 
+Nagarkurnool ,01-10-2016,October,2016,8
+Nagarkurnool ,01-11-2016,November,2016,11
+Nagarkurnool ,01-12-2016,December,2016,10
+Nalgonda,01-01-2016,January,2016,0
+Nalgonda,01-02-2016,February,2016,0
+Nalgonda,01-03-2016,March,2016,0
+Nalgonda,01-04-2016,April,2016,0
+Nalgonda,01-05-2016,May,2016,0
+Nalgonda,01-06-2016,June,2016,0
+Nalgonda,01-07-2016,July,2016,0
+Nalgonda,01-08-2016,August,2016,0
+Nalgonda,01-09-2016,September,2016,0
+Nalgonda,01-10-2016,October,2016,0
+Nalgonda,01-11-2016,November,2016,0
+Nalgonda,01-12-2016,December,2016,0
+Nirmal,01-01-2016,January,2016, 
+Nirmal,01-02-2016,February,2016, 
+Nirmal,01-03-2016,March,2016, 
+Nirmal,01-04-2016,April,2016, 
+Nirmal,01-05-2016,May,2016, 
+Nirmal,01-06-2016,June,2016, 
+Nirmal,01-07-2016,July,2016, 
+Nirmal,01-08-2016,August,2016, 
+Nirmal,01-09-2016,September,2016, 
+Nirmal,01-10-2016,October,2016,0
+Nirmal,01-11-2016,November,2016,0
+Nirmal,01-12-2016,December,2016,0
+Nizamabad,01-01-2016,January,2016,0
+Nizamabad,01-02-2016,February,2016,0
+Nizamabad,01-03-2016,March,2016,0
+Nizamabad,01-04-2016,April,2016,0
+Nizamabad,01-05-2016,May,2016,0
+Nizamabad,01-06-2016,June,2016,0
+Nizamabad,01-07-2016,July,2016,0
+Nizamabad,01-08-2016,August,2016,0
+Nizamabad,01-09-2016,September,2016,0
+Nizamabad,01-10-2016,October,2016,0
+Nizamabad,01-11-2016,November,2016,0
+Nizamabad,01-12-2016,December,2016,0
+Peddapalli,01-01-2016,January,2016, 
+Peddapalli,01-02-2016,February,2016, 
+Peddapalli,01-03-2016,March,2016, 
+Peddapalli,01-04-2016,April,2016, 
+Peddapalli,01-05-2016,May,2016, 
+Peddapalli,01-06-2016,June,2016, 
+Peddapalli,01-07-2016,July,2016, 
+Peddapalli,01-08-2016,August,2016, 
+Peddapalli,01-09-2016,September,2016, 
+Peddapalli,01-10-2016,October,2016,0
+Peddapalli,01-11-2016,November,2016,0
+Peddapalli,01-12-2016,December,2016,0
+Rajanna Sircilla ,01-01-2016,January,2016, 
+Rajanna Sircilla ,01-02-2016,February,2016, 
+Rajanna Sircilla ,01-03-2016,March,2016, 
+Rajanna Sircilla ,01-04-2016,April,2016, 
+Rajanna Sircilla ,01-05-2016,May,2016, 
+Rajanna Sircilla ,01-06-2016,June,2016, 
+Rajanna Sircilla ,01-07-2016,July,2016, 
+Rajanna Sircilla ,01-08-2016,August,2016, 
+Rajanna Sircilla ,01-09-2016,September,2016, 
+Rajanna Sircilla ,01-10-2016,October,2016,0
+Rajanna Sircilla ,01-11-2016,November,2016,0
+Rajanna Sircilla ,01-12-2016,December,2016,0
+Ranga Reddy,01-01-2016,January,2016, 
+Ranga Reddy,01-02-2016,February,2016, 
+Ranga Reddy,01-03-2016,March,2016, 
+Ranga Reddy,01-04-2016,April,2016, 
+Ranga Reddy,01-05-2016,May,2016, 
+Ranga Reddy,01-06-2016,June,2016, 
+Ranga Reddy,01-07-2016,July,2016, 
+Ranga Reddy,01-08-2016,August,2016, 
+Ranga Reddy,01-09-2016,September,2016, 
+Ranga Reddy,01-10-2016,October,2016, 
+Ranga Reddy,01-11-2016,November,2016, 
+Ranga Reddy,01-12-2016,December,2016, 
+Sangareddy ,01-01-2016,January,2016, 
+Sangareddy ,01-02-2016,February,2016, 
+Sangareddy ,01-03-2016,March,2016, 
+Sangareddy ,01-04-2016,April,2016, 
+Sangareddy ,01-05-2016,May,2016, 
+Sangareddy ,01-06-2016,June,2016, 
+Sangareddy ,01-07-2016,July,2016, 
+Sangareddy ,01-08-2016,August,2016, 
+Sangareddy ,01-09-2016,September,2016, 
+Sangareddy ,01-10-2016,October,2016,0
+Sangareddy ,01-11-2016,November,2016,0
+Sangareddy ,01-12-2016,December,2016,0
+Siddipet,01-01-2016,January,2016, 
+Siddipet,01-02-2016,February,2016, 
+Siddipet,01-03-2016,March,2016, 
+Siddipet,01-04-2016,April,2016, 
+Siddipet,01-05-2016,May,2016, 
+Siddipet,01-06-2016,June,2016, 
+Siddipet,01-07-2016,July,2016, 
+Siddipet,01-08-2016,August,2016, 
+Siddipet,01-09-2016,September,2016, 
+Siddipet,01-10-2016,October,2016,0
+Siddipet,01-11-2016,November,2016,0
+Siddipet,01-12-2016,December,2016,0
+Suryapet,01-01-2016,January,2016, 
+Suryapet,01-02-2016,February,2016, 
+Suryapet,01-03-2016,March,2016, 
+Suryapet,01-04-2016,April,2016, 
+Suryapet,01-05-2016,May,2016, 
+Suryapet,01-06-2016,June,2016, 
+Suryapet,01-07-2016,July,2016, 
+Suryapet,01-08-2016,August,2016, 
+Suryapet,01-09-2016,September,2016, 
+Suryapet,01-10-2016,October,2016,0
+Suryapet,01-11-2016,November,2016,0
+Suryapet,01-12-2016,December,2016,0
+Vikarabad,01-01-2016,January,2016, 
+Vikarabad,01-02-2016,February,2016, 
+Vikarabad,01-03-2016,March,2016, 
+Vikarabad,01-04-2016,April,2016, 
+Vikarabad,01-05-2016,May,2016, 
+Vikarabad,01-06-2016,June,2016, 
+Vikarabad,01-07-2016,July,2016, 
+Vikarabad,01-08-2016,August,2016, 
+Vikarabad,01-09-2016,September,2016, 
+Vikarabad,01-10-2016,October,2016, 
+Vikarabad,01-11-2016,November,2016, 
+Vikarabad,01-12-2016,December,2016, 
+Wanaparthy ,01-01-2016,January,2016, 
+Wanaparthy ,01-02-2016,February,2016, 
+Wanaparthy ,01-03-2016,March,2016, 
+Wanaparthy ,01-04-2016,April,2016, 
+Wanaparthy ,01-05-2016,May,2016, 
+Wanaparthy ,01-06-2016,June,2016, 
+Wanaparthy ,01-07-2016,July,2016, 
+Wanaparthy ,01-08-2016,August,2016, 
+Wanaparthy ,01-09-2016,September,2016, 
+Wanaparthy ,01-10-2016,October,2016,0
+Wanaparthy ,01-11-2016,November,2016,0
+Wanaparthy ,01-12-2016,December,2016,0
+Warangal (Rural),01-01-2016,January,2016, 
+Warangal (Rural),01-02-2016,February,2016, 
+Warangal (Rural),01-03-2016,March,2016, 
+Warangal (Rural),01-04-2016,April,2016, 
+Warangal (Rural),01-05-2016,May,2016, 
+Warangal (Rural),01-06-2016,June,2016, 
+Warangal (Rural),01-07-2016,July,2016, 
+Warangal (Rural),01-08-2016,August,2016, 
+Warangal (Rural),01-09-2016,September,2016, 
+Warangal (Rural),01-10-2016,October,2016,0
+Warangal (Rural),01-11-2016,November,2016,0
+Warangal (Rural),01-12-2016,December,2016,0
+Warangal (Urban),01-01-2016,January,2016,459
+Warangal (Urban),01-02-2016,February,2016,391
+Warangal (Urban),01-03-2016,March,2016,230
+Warangal (Urban),01-04-2016,April,2016,39
+Warangal (Urban),01-05-2016,May,2016,82
+Warangal (Urban),01-06-2016,June,2016,88
+Warangal (Urban),01-07-2016,July,2016,53
+Warangal (Urban),01-08-2016,August,2016,102
+Warangal (Urban),01-09-2016,September,2016,118
+Warangal (Urban),01-10-2016,October,2016,108
+Warangal (Urban),01-11-2016,November,2016,97
+Warangal (Urban),01-12-2016,December,2016,132
+Yadadri Bhongir,01-01-2016,January,2016, 
+Yadadri Bhongir,01-02-2016,February,2016, 
+Yadadri Bhongir,01-03-2016,March,2016, 
+Yadadri Bhongir,01-04-2016,April,2016, 
+Yadadri Bhongir,01-05-2016,May,2016, 
+Yadadri Bhongir,01-06-2016,June,2016, 
+Yadadri Bhongir,01-07-2016,July,2016, 
+Yadadri Bhongir,01-08-2016,August,2016, 
+Yadadri Bhongir,01-09-2016,September,2016, 
+Yadadri Bhongir,01-10-2016,October,2016,0
+Yadadri Bhongir,01-11-2016,November,2016,0
+Yadadri Bhongir,01-12-2016,December,2016,0

@@ -1,0 +1,25 @@
+This file contains all the meta information regarding the columns described in the CSV files.
+
+1.domestic_visitors.csv: contains data about visitors who travel within the country(India) to 'Telangana' districts for various purposes, such as tourism,
+                          business, visiting friends and family.
+2.foreign_visitors.csv: contains data about international visitors, referring to individuals who travel from one country 
+			        to another for various purposes such as tourism, business, education, or visiting friends and family.
+
+
+
+Column Description for domestic_visitors:
+1. district: The name of the district in Telangana.
+2. date: The starting date of the month when the tourist data was collected for the specified district.
+3. month: The month for which the tourist data is being reported.
+4. year:  The year is in YYYY format.
+5. visitors: The number of domestic visitors who visited the given district in Telangana during the specified month and year. 
+             This could include tourists, business travellers, and other types of domestic visitors.
+
+
+
+Column Description for foreign_visitors:
+1. district: The name of the district in Telangana.
+2. date: The starting date of the month when the tourist data was collected for the specified district.
+3. month: The month for which the tourist data is being reported.
+4. year: The year is in YYYY format.
+5. visitors: The number of foreign visitors who visited the given district in Telangana during the specified month and year. 

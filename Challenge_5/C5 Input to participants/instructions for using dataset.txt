@@ -1,0 +1,7 @@
+You have access to two folders, named "domestic_visitors" and "foreign_visitors", which contain individual tourist data from the years 2016 to 2019 in CSV format. To better understand the column descriptions, please refer to the provided file "metadata.txt".
+
+Task1: 
+Merge all individual CSV files in "domestic_visitors" and "foreign_visitors" folders using a data integration tool such as Pandas or PowerBI, and name the resulting files "domestic_visitors.csv" and "foreign_visitors.csv", respectively, containing all data from 2016 to 2019.
+
+Task2:
+Once the merged data is obtained, you can use it to answer the questions listed in the file 'research_questions_and_recommendations.pdf'. You can use any tool of your choice (Python, SQL, PowerBI, Tableau, Excel) to answer these questions. 
